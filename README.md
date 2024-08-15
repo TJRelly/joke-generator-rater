@@ -44,6 +44,7 @@ cd cheeZJokes
 npm install  # or yarn install
 
 npm start  # or yarn start
+```
 
 Open http://localhost:3000 (or your development server port) in your browser to experience the app.
 
