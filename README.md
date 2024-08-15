@@ -50,6 +50,6 @@ Open http://localhost:3000 (or your development server port) in your browser to 
 
 ## Future Enhancements:
 
-Persistence: Implementing features like user login and joke voting history will allow users to personalize their experience and track their favorite cheesy jokes.
+**Persistence:** Implementing features like user login and joke voting history will allow users to personalize their experience and track their favorite cheesy jokes.
 
-Custom Joke Submission: We aim to add a feature where users can submit their own cheesy creations, fostering a fun and interactive community.
+**Custom Joke Submission:** We aim to add a feature where users can submit their own cheesy creations, fostering a fun and interactive community.
