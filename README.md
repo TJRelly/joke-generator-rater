@@ -1,4 +1,4 @@
-# CheeZJokes App
+# Dad Joke Generator App
 
 ### What I did:
 
