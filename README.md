@@ -8,7 +8,7 @@
 
 ## Introduction:
 
-Welcome to the world of CheeZJokes, a React application designed to tickle your funny bone and showcase your React development skills! This app allows users to view and vote on a collection of delightfully cheesy jokes, powered by the ICanHazDadJoke API.
+Welcome to the world of Dod Jokes, a React application designed to tickle your funny bone and showcase your React development skills! This app allows users to view and vote on a collection of delightfully cheesy dad jokes, powered by the ICanHazDadJoke API.
 
 ---
 
