@@ -38,9 +38,9 @@ Welcome to the world of Dad Jokes, a React application designed to tickle your f
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/cheeZJokes.git
+git clone https://github.com/TJRelly/joke-generator-rater.git
 
-cd cheeZJokes
+cd joke-generator-rater
 npm install  # or yarn install
 
 npm start  # or yarn start
