@@ -1,0 +1,35 @@
+.Joke {
+  margin-bottom: 0.75em;
+  padding: 0.2em;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.Joke-locked {
+  background-color: #ccc;
+}
+
+.Joke-votearea {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Joke-votearea > * {
+  margin-right: 1em;
+
+}
+.Joke-text {
+  padding-left: 1em;
+  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+}
+
+@media(max-width: 780px) {
+  .Joke-text {
+    padding-left: 0
+  }
+}
+
